@@ -14,6 +14,11 @@
       "life": "nineteen",
       "name": "Link",
       "energy": 25
+    },
+    {
+      "life": "new",
+      "name": "Matan",
+      "energy": 30
     }
   ]
 }
