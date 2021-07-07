@@ -1,0 +1,19 @@
+﻿{
+  "Data": [
+    {
+      "life": "ten",
+      "name": "Kratos",
+      "energy": 100
+    },
+    {
+      "life": "eighteen",
+      "name": "Nathan",
+      "energy": 20
+    },
+    {
+      "life": "nineteen",
+      "name": "Link",
+      "energy": 25
+    }
+  ]
+}
